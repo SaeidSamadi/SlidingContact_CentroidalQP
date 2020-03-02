@@ -1,0 +1,3 @@
+[submodule "WipingController"]
+	path = WipingController
+	url = git@gite.lirmm.fr:mc-controllers/wipingcontroller.git
